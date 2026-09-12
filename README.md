@@ -9,7 +9,7 @@ Customer churn prediction using machine learning
 1. Short tenure combined with month-to-month contracts represents the primary indicator of immediate customer loss.
 2. High monthly charges drive churn unless anchored by long-term contract discounts or bundle retention offers.
 3. Fiber optic customers churn at a higher rate despite paying more, pointing to potential service quality or pricing issues. 
- 
-### Setup 
-Open the Kaggle notebook or run locally: 
-pip install pandas numpy matplotlib seaborn 
+
+ ## Setup
+* **Live Interactive Notebook:** [Run on Kaggle](https://www.kaggle.com/code/mahumjunaid/week-1-customer-churn-eda)
+* **Local Setup:** `pip install pandas numpy matplotlib seaborn`
